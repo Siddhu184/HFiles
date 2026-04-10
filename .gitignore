@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+
+# .NET
+bin/
+obj/
+
+# Node
+node_modules/
+.next/
+
+# Logs
+*.log

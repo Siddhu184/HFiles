@@ -1,0 +1,6 @@
+@HFilesAPI_HostAddress = http://localhost:5014
+
+GET {{HFilesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
